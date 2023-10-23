@@ -30,4 +30,4 @@ change_mac(interface, new_mac)
 
 # Verificar si la dirección MAC ha sido cambiada correctamente
 current_mac = get_current_mac(interface)
-print(f"MAC después del cambio: {current_mac
+print(f"MAC después del cambio: {current_mac}")
